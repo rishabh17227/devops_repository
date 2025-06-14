@@ -1,5 +1,0 @@
----
-  app_port: "8000"
-  site_title: "Welcome to My New Site"
-  header: "Sample Website"
-  message: "This is my new IIS site!"

@@ -1,5 +1,0 @@
----
-- name: Install IIS and Management Tools
-  win_feature:
-    name: Web-Server
-    include_management_tools: yes
