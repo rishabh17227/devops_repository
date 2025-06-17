@@ -19,18 +19,6 @@ A collection of Ansible playbooks for various server setups and cloud environmen
 
 ---
 
-#### 2. Ansible AWS Automation
-
-        2.1 Purpose: Streamlines AWS environment management across 400+ accounts, including credential setup and resource mounting.
-
-        2.2 Features:
-        - Automates credential management and mounts EFS/S3 as NFS.
-        - Sets up CRON jobs for centralized log management.
-
-        2.3 Usage: Enhances provisioning and maintenance in development and production environments.
-
----
-
 # Bash Scripts
 
 A collection of Bash scripts for automating tasks related to AWS and other utilities.
